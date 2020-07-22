@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/CatalogReoflex/static/css/main.c9107131.chunk.css",
+    "main.css": "/CatalogReoflex/static/css/main.518cd72e.chunk.css",
     "main.js": "/CatalogReoflex/static/js/main.70144b0e.chunk.js",
     "main.js.map": "/CatalogReoflex/static/js/main.70144b0e.chunk.js.map",
     "runtime-main.js": "/CatalogReoflex/static/js/runtime-main.e58a048a.js",
@@ -8,9 +8,9 @@
     "static/js/2.02364388.chunk.js": "/CatalogReoflex/static/js/2.02364388.chunk.js",
     "static/js/2.02364388.chunk.js.map": "/CatalogReoflex/static/js/2.02364388.chunk.js.map",
     "index.html": "/CatalogReoflex/index.html",
-    "precache-manifest.fdf3ddf7f40b422d213008c53cedd4ba.js": "/CatalogReoflex/precache-manifest.fdf3ddf7f40b422d213008c53cedd4ba.js",
+    "precache-manifest.015579d918d6dc7ba052089e32f40382.js": "/CatalogReoflex/precache-manifest.015579d918d6dc7ba052089e32f40382.js",
     "service-worker.js": "/CatalogReoflex/service-worker.js",
-    "static/css/main.c9107131.chunk.css.map": "/CatalogReoflex/static/css/main.c9107131.chunk.css.map",
+    "static/css/main.518cd72e.chunk.css.map": "/CatalogReoflex/static/css/main.518cd72e.chunk.css.map",
     "static/js/2.02364388.chunk.js.LICENSE.txt": "/CatalogReoflex/static/js/2.02364388.chunk.js.LICENSE.txt",
     "static/media/Content_1.jpeg": "/CatalogReoflex/static/media/Content_1.ea3a53e4.jpeg",
     "static/media/Content_2.jpg": "/CatalogReoflex/static/media/Content_2.8a2edbb3.jpg",
@@ -19,7 +19,7 @@
   "entrypoints": [
     "static/js/runtime-main.e58a048a.js",
     "static/js/2.02364388.chunk.js",
-    "static/css/main.c9107131.chunk.css",
+    "static/css/main.518cd72e.chunk.css",
     "static/js/main.70144b0e.chunk.js"
   ]
 }
