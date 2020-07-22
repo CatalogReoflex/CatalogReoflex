@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1677e8b979c1b4d3b37d4f695ee124b4",
+    "revision": "b94973e2d6fdca6167ae8012555621b4",
     "url": "/CatalogReoflex/index.html"
   },
   {
-    "revision": "0f8beb2bf422013afb6f",
+    "revision": "f7492822df8fdd25c235",
     "url": "/CatalogReoflex/static/css/main.518cd72e.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/CatalogReoflex/static/js/2.02364388.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "0f8beb2bf422013afb6f",
-    "url": "/CatalogReoflex/static/js/main.70144b0e.chunk.js"
+    "revision": "f7492822df8fdd25c235",
+    "url": "/CatalogReoflex/static/js/main.235d50b3.chunk.js"
   },
   {
     "revision": "ddf87f2e48026c40f034",

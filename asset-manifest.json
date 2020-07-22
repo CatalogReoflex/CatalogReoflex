@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/CatalogReoflex/static/css/main.518cd72e.chunk.css",
-    "main.js": "/CatalogReoflex/static/js/main.70144b0e.chunk.js",
-    "main.js.map": "/CatalogReoflex/static/js/main.70144b0e.chunk.js.map",
+    "main.js": "/CatalogReoflex/static/js/main.235d50b3.chunk.js",
+    "main.js.map": "/CatalogReoflex/static/js/main.235d50b3.chunk.js.map",
     "runtime-main.js": "/CatalogReoflex/static/js/runtime-main.e58a048a.js",
     "runtime-main.js.map": "/CatalogReoflex/static/js/runtime-main.e58a048a.js.map",
     "static/js/2.02364388.chunk.js": "/CatalogReoflex/static/js/2.02364388.chunk.js",
     "static/js/2.02364388.chunk.js.map": "/CatalogReoflex/static/js/2.02364388.chunk.js.map",
     "index.html": "/CatalogReoflex/index.html",
-    "precache-manifest.015579d918d6dc7ba052089e32f40382.js": "/CatalogReoflex/precache-manifest.015579d918d6dc7ba052089e32f40382.js",
+    "precache-manifest.d7440a6e325b92edf99a95f806570283.js": "/CatalogReoflex/precache-manifest.d7440a6e325b92edf99a95f806570283.js",
     "service-worker.js": "/CatalogReoflex/service-worker.js",
     "static/css/main.518cd72e.chunk.css.map": "/CatalogReoflex/static/css/main.518cd72e.chunk.css.map",
     "static/js/2.02364388.chunk.js.LICENSE.txt": "/CatalogReoflex/static/js/2.02364388.chunk.js.LICENSE.txt",
@@ -20,6 +20,6 @@
     "static/js/runtime-main.e58a048a.js",
     "static/js/2.02364388.chunk.js",
     "static/css/main.518cd72e.chunk.css",
-    "static/js/main.70144b0e.chunk.js"
+    "static/js/main.235d50b3.chunk.js"
   ]
 }
