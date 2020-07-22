@@ -1,0 +1,12 @@
+.Header {
+  width: 100%;
+}
+
+@media screen and (max-width: 750px) {
+  .Header {
+    position: -webkit-sticky;
+    position: fixed;
+    padding-top: 20px;
+    background: rgba(0,0,0,0.9);
+  }
+}
