@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/CatalogReoflex/static/css/main.518cd72e.chunk.css",
-    "main.js": "/CatalogReoflex/static/js/main.235d50b3.chunk.js",
-    "main.js.map": "/CatalogReoflex/static/js/main.235d50b3.chunk.js.map",
+    "main.css": "/CatalogReoflex/static/css/main.550fbf99.chunk.css",
+    "main.js": "/CatalogReoflex/static/js/main.5c362265.chunk.js",
+    "main.js.map": "/CatalogReoflex/static/js/main.5c362265.chunk.js.map",
     "runtime-main.js": "/CatalogReoflex/static/js/runtime-main.e58a048a.js",
     "runtime-main.js.map": "/CatalogReoflex/static/js/runtime-main.e58a048a.js.map",
     "static/js/2.02364388.chunk.js": "/CatalogReoflex/static/js/2.02364388.chunk.js",
     "static/js/2.02364388.chunk.js.map": "/CatalogReoflex/static/js/2.02364388.chunk.js.map",
     "index.html": "/CatalogReoflex/index.html",
-    "precache-manifest.d7440a6e325b92edf99a95f806570283.js": "/CatalogReoflex/precache-manifest.d7440a6e325b92edf99a95f806570283.js",
+    "precache-manifest.0cc62684481be9db1e91bc957b8141d2.js": "/CatalogReoflex/precache-manifest.0cc62684481be9db1e91bc957b8141d2.js",
     "service-worker.js": "/CatalogReoflex/service-worker.js",
-    "static/css/main.518cd72e.chunk.css.map": "/CatalogReoflex/static/css/main.518cd72e.chunk.css.map",
+    "static/css/main.550fbf99.chunk.css.map": "/CatalogReoflex/static/css/main.550fbf99.chunk.css.map",
     "static/js/2.02364388.chunk.js.LICENSE.txt": "/CatalogReoflex/static/js/2.02364388.chunk.js.LICENSE.txt",
     "static/media/Content_1.jpeg": "/CatalogReoflex/static/media/Content_1.ea3a53e4.jpeg",
     "static/media/Content_2.jpg": "/CatalogReoflex/static/media/Content_2.8a2edbb3.jpg",
@@ -19,7 +19,7 @@
   "entrypoints": [
     "static/js/runtime-main.e58a048a.js",
     "static/js/2.02364388.chunk.js",
-    "static/css/main.518cd72e.chunk.css",
-    "static/js/main.235d50b3.chunk.js"
+    "static/css/main.550fbf99.chunk.css",
+    "static/js/main.5c362265.chunk.js"
   ]
 }
