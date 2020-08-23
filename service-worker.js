@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/CatalogReoflex/precache-manifest.98ea40e1820546e7d24c6d3980c143f6.js"
+  "/CatalogReoflex/precache-manifest.47128210e037c97006864d52162c18c7.js"
 );
 
 self.addEventListener('message', (event) => {
