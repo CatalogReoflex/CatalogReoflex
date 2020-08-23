@@ -1,8 +1,8 @@
 {
-  "name": "catalog",
+  "name": "catalogreoflex",
   "version": "0.2.0",
   "private": true,
-  "homepage": "https://catalogreoflex.github.io/catalog",
+  "homepage": "https://catalogreoflex.github.io/CatalogReoflex",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",

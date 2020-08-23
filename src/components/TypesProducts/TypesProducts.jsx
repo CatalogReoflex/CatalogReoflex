@@ -1,11 +1,11 @@
 import React from 'react';
-import s from './Content.module.css';
+import s from './TypesProducts.module.css';
 import Header from './../Header/Header';
 import {NavLink} from "react-router-dom";
 
-const Content = (props) => {
+const TypesProducts = (props) => {
 
-    let ContentElements = props.ContentApps.map(ContentEl => 
+    let ContentElements = props.TypesProducts.map(ContentEl => 
         <div className={s.content_bolck}>
             <NavLink to={ContentEl.URL}>
                 <div className={s.fone} style={{"box-shadow": ContentEl.Shadow, "background": ContentEl.Color}}>
@@ -19,12 +19,17 @@ const Content = (props) => {
 
     return (
         <div className="SearchPage">
-            <Header Header="Каталог Товаров"/>
+            <Header Header="Типы Шпаклёвок"/>
+            
             <div className={s.main}>
                 {ContentElements}
             </div>
+
+            <NavLink to="/">
+                    <img src={require('./../../image/home.png')} className={s.Home} alt="Home"/>
+            </NavLink>
         </div>
     );
 };
 
-export default Content;
+export default TypesProducts;

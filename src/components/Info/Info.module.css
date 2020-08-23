@@ -1,0 +1,94 @@
+.main {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    padding-top: 50px;
+}
+
+.Head {
+    display: flex; 
+    align-items: center;
+    justify-content: center;
+    text-transform: uppercase;
+    font-size: 24px;
+    text-align: left;
+    padding-top: 20px;
+}
+
+.Head p {
+    max-width: 400px;
+}
+
+.content_bolck {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 30px;
+}
+
+.fone {
+    display: flex;
+    padding: 0 25px 0 25px;
+    border-radius: 20px;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    -ms-border-radius: 20px;
+    -o-border-radius: 20px;
+}
+
+.fone img {
+    width: 70px;
+    height: 70px;
+    border-radius: 60px;
+}
+
+.title {
+    text-align: left;
+    text-transform: uppercase;
+    width: 250px;
+    font-size: 14px;
+    letter-spacing: 2px;
+    margin-top: 18px;
+    margin-bottom: 18px;
+    justify-content: center;
+}
+
+.MainImage {
+    margin: 10px 20px;
+    width: 100px;
+    height: 100px;
+    border-radius: 30px;
+    -webkit-border-radius: 30px;
+    -moz-border-radius: 30px;
+    -ms-border-radius: 30px;
+    -o-border-radius: 30px;
+}
+
+.Home {
+    width: 70px;
+    height: 70px;
+    z-index: 9000;
+    position: fixed;
+    top: 85%;
+    left: 75%;
+    opacity: 0.9;
+}
+
+@media screen and (max-width: 750px) {
+    .main {
+        grid-template-columns: 1fr;
+        padding-top: 0;
+    }
+
+    .Head {
+        font-size: 16px;
+        padding-top: 20px;
+    }
+    
+    .Head p {
+        max-width: 200px;
+    }
+    
+    .content_bolck:last-child {
+        margin-bottom: 50px;
+    }
+}
